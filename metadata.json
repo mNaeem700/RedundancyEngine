@@ -1,0 +1,6 @@
+{
+  "name": "Data Redundancy Removal System",
+  "description": "An intelligent pre-ingestion data validation engine that identifies exact and fuzzy duplicates, classifies false positives with AI, and ensures only unique entries enter the database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
